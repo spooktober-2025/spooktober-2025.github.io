@@ -1,7 +1,3 @@
 theme: jekyll-theme-midnight
 title: Spooktober 2025
 description: Testing...
-markdown: kramdown
-kramdown:
-  input: GFM
-  parse_block_html: true
