@@ -1,2 +1,2 @@
-# spooktober-2025.github.io
-Official Spooktober2025 Website
+# Spooktober 2025
+Testing Official Spooktober2025 Website...
